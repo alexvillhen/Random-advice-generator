@@ -51,7 +51,7 @@ Users should be able to:
 
 In this challenge I learned how to use the fetch and json API's to work with async function and promises. 
 This was very fun for me since this is the first project in which I implement this API's.
-```
+```js
 const addQuote = () => {
     const requestAdvice = fetch("https://api.adviceslip.com/advice");
     requestAdvice.then( response => {
