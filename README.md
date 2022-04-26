@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/random-advice-using-fetch-and-json-apis-rkOBHiSS9)
+- Live Site URL: [Random Advice Generator](https://alexvillhen.github.io/Random-advice-generator/)
 
 ## My process
 
